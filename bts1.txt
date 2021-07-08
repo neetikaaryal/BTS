@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+	<title>BBC NEWS</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	<div id="container">
+    	<div id="header">
+		<h1>Biggest boy band group BTS in GRAMMY</h1>
+	</div>
+	<div>
+		<h2>BTS is making history in the field of music!</h2>
+		<p>Coming from a non-american country and singing in their native language yet making international people go crazy over them, this just proves the power of BTS and their music.</p>
+	</div>
+<br />
+<a href="https://www.grammy.com/grammys/news/all-ways-bts-won-our-hearts-2019-grammys">To learn more Click Here!</a> </p>
+<hr />
+<img src="image.jpg" /> 
+	<div id="footer">
+		Copyright &copy; Neetika 2017
+	</div>
+	</div> 
+</body>
+
+
+</html>
